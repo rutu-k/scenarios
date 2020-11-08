@@ -1,0 +1,28 @@
+{
+  "title": "demo",
+  "description": "testing katacoda cli",
+  "difficulty": "Beginner",
+  "time": "5 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "hideintro": true,
+    "hidefinish": false
+  },
+  "backend": {
+    "imageid": "bash"
+  }
+}
