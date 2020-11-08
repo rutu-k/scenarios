@@ -1,3 +1,3 @@
 Describe deployment
 
-`kubectl describe deploy`{{execute}}
+`kubectl describe deploy nginx-deployment`{{execute}}

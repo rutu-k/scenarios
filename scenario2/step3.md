@@ -1,3 +1,3 @@
 Check deployment manifest
 
-`kubectl get deploy -o yaml`{{execute}}
+`kubectl get deploy nginx-deployment -o yaml`{{execute}}

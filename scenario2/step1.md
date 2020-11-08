@@ -1,3 +1,7 @@
 Create nginx deployment
 
-`kubectl apply -f https://gist.github.com/rutu-k/7407301432c136cbb39f69bd9a124cc2`{{execute}}
+Start minikube and wait till it gets ready
+`minikube start`{{execute}}
+
+Deploy Nginx App
+`kubectl apply -f https://k8s.io/examples/application/deployment.yaml`{{execute}}
